@@ -1,0 +1,15 @@
+/Geekbrains/C#/4/bin/Debug/net6.0/4
+/Geekbrains/C#/4/bin/Debug/net6.0/4.deps.json
+/Geekbrains/C#/4/bin/Debug/net6.0/4.runtimeconfig.json
+/Geekbrains/C#/4/bin/Debug/net6.0/4.dll
+/Geekbrains/C#/4/bin/Debug/net6.0/4.pdb
+/Geekbrains/C#/4/obj/Debug/net6.0/4.csproj.AssemblyReference.cache
+/Geekbrains/C#/4/obj/Debug/net6.0/4.GeneratedMSBuildEditorConfig.editorconfig
+/Geekbrains/C#/4/obj/Debug/net6.0/4.AssemblyInfoInputs.cache
+/Geekbrains/C#/4/obj/Debug/net6.0/4.AssemblyInfo.cs
+/Geekbrains/C#/4/obj/Debug/net6.0/4.csproj.CoreCompileInputs.cache
+/Geekbrains/C#/4/obj/Debug/net6.0/4.dll
+/Geekbrains/C#/4/obj/Debug/net6.0/refint/4.dll
+/Geekbrains/C#/4/obj/Debug/net6.0/4.pdb
+/Geekbrains/C#/4/obj/Debug/net6.0/4.genruntimeconfig.cache
+/Geekbrains/C#/4/obj/Debug/net6.0/ref/4.dll
