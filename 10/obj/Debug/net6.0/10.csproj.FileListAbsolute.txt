@@ -1,0 +1,15 @@
+/Geekbrains/C-sharp-HW/C-sharp/10/bin/Debug/net6.0/10
+/Geekbrains/C-sharp-HW/C-sharp/10/bin/Debug/net6.0/10.deps.json
+/Geekbrains/C-sharp-HW/C-sharp/10/bin/Debug/net6.0/10.runtimeconfig.json
+/Geekbrains/C-sharp-HW/C-sharp/10/bin/Debug/net6.0/10.dll
+/Geekbrains/C-sharp-HW/C-sharp/10/bin/Debug/net6.0/10.pdb
+/Geekbrains/C-sharp-HW/C-sharp/10/obj/Debug/net6.0/10.csproj.AssemblyReference.cache
+/Geekbrains/C-sharp-HW/C-sharp/10/obj/Debug/net6.0/10.GeneratedMSBuildEditorConfig.editorconfig
+/Geekbrains/C-sharp-HW/C-sharp/10/obj/Debug/net6.0/10.AssemblyInfoInputs.cache
+/Geekbrains/C-sharp-HW/C-sharp/10/obj/Debug/net6.0/10.AssemblyInfo.cs
+/Geekbrains/C-sharp-HW/C-sharp/10/obj/Debug/net6.0/10.csproj.CoreCompileInputs.cache
+/Geekbrains/C-sharp-HW/C-sharp/10/obj/Debug/net6.0/10.dll
+/Geekbrains/C-sharp-HW/C-sharp/10/obj/Debug/net6.0/refint/10.dll
+/Geekbrains/C-sharp-HW/C-sharp/10/obj/Debug/net6.0/10.pdb
+/Geekbrains/C-sharp-HW/C-sharp/10/obj/Debug/net6.0/10.genruntimeconfig.cache
+/Geekbrains/C-sharp-HW/C-sharp/10/obj/Debug/net6.0/ref/10.dll
