@@ -1,0 +1,15 @@
+/Geekbrains/C-sharp-HW/19/bin/Debug/net6.0/19
+/Geekbrains/C-sharp-HW/19/bin/Debug/net6.0/19.deps.json
+/Geekbrains/C-sharp-HW/19/bin/Debug/net6.0/19.runtimeconfig.json
+/Geekbrains/C-sharp-HW/19/bin/Debug/net6.0/19.dll
+/Geekbrains/C-sharp-HW/19/bin/Debug/net6.0/19.pdb
+/Geekbrains/C-sharp-HW/19/obj/Debug/net6.0/19.csproj.AssemblyReference.cache
+/Geekbrains/C-sharp-HW/19/obj/Debug/net6.0/19.GeneratedMSBuildEditorConfig.editorconfig
+/Geekbrains/C-sharp-HW/19/obj/Debug/net6.0/19.AssemblyInfoInputs.cache
+/Geekbrains/C-sharp-HW/19/obj/Debug/net6.0/19.AssemblyInfo.cs
+/Geekbrains/C-sharp-HW/19/obj/Debug/net6.0/19.csproj.CoreCompileInputs.cache
+/Geekbrains/C-sharp-HW/19/obj/Debug/net6.0/19.dll
+/Geekbrains/C-sharp-HW/19/obj/Debug/net6.0/refint/19.dll
+/Geekbrains/C-sharp-HW/19/obj/Debug/net6.0/19.pdb
+/Geekbrains/C-sharp-HW/19/obj/Debug/net6.0/19.genruntimeconfig.cache
+/Geekbrains/C-sharp-HW/19/obj/Debug/net6.0/ref/19.dll

@@ -1,0 +1,15 @@
+/Geekbrains/C-sharp-HW/23/bin/Debug/net6.0/23
+/Geekbrains/C-sharp-HW/23/bin/Debug/net6.0/23.deps.json
+/Geekbrains/C-sharp-HW/23/bin/Debug/net6.0/23.runtimeconfig.json
+/Geekbrains/C-sharp-HW/23/bin/Debug/net6.0/23.dll
+/Geekbrains/C-sharp-HW/23/bin/Debug/net6.0/23.pdb
+/Geekbrains/C-sharp-HW/23/obj/Debug/net6.0/23.csproj.AssemblyReference.cache
+/Geekbrains/C-sharp-HW/23/obj/Debug/net6.0/23.GeneratedMSBuildEditorConfig.editorconfig
+/Geekbrains/C-sharp-HW/23/obj/Debug/net6.0/23.AssemblyInfoInputs.cache
+/Geekbrains/C-sharp-HW/23/obj/Debug/net6.0/23.AssemblyInfo.cs
+/Geekbrains/C-sharp-HW/23/obj/Debug/net6.0/23.csproj.CoreCompileInputs.cache
+/Geekbrains/C-sharp-HW/23/obj/Debug/net6.0/23.dll
+/Geekbrains/C-sharp-HW/23/obj/Debug/net6.0/refint/23.dll
+/Geekbrains/C-sharp-HW/23/obj/Debug/net6.0/23.pdb
+/Geekbrains/C-sharp-HW/23/obj/Debug/net6.0/23.genruntimeconfig.cache
+/Geekbrains/C-sharp-HW/23/obj/Debug/net6.0/ref/23.dll
