@@ -1,0 +1,15 @@
+/Geekbrains/C#Homeworks/C-sharp/36/bin/Debug/net6.0/36
+/Geekbrains/C#Homeworks/C-sharp/36/bin/Debug/net6.0/36.deps.json
+/Geekbrains/C#Homeworks/C-sharp/36/bin/Debug/net6.0/36.runtimeconfig.json
+/Geekbrains/C#Homeworks/C-sharp/36/bin/Debug/net6.0/36.dll
+/Geekbrains/C#Homeworks/C-sharp/36/bin/Debug/net6.0/36.pdb
+/Geekbrains/C#Homeworks/C-sharp/36/obj/Debug/net6.0/36.csproj.AssemblyReference.cache
+/Geekbrains/C#Homeworks/C-sharp/36/obj/Debug/net6.0/36.GeneratedMSBuildEditorConfig.editorconfig
+/Geekbrains/C#Homeworks/C-sharp/36/obj/Debug/net6.0/36.AssemblyInfoInputs.cache
+/Geekbrains/C#Homeworks/C-sharp/36/obj/Debug/net6.0/36.AssemblyInfo.cs
+/Geekbrains/C#Homeworks/C-sharp/36/obj/Debug/net6.0/36.csproj.CoreCompileInputs.cache
+/Geekbrains/C#Homeworks/C-sharp/36/obj/Debug/net6.0/36.dll
+/Geekbrains/C#Homeworks/C-sharp/36/obj/Debug/net6.0/refint/36.dll
+/Geekbrains/C#Homeworks/C-sharp/36/obj/Debug/net6.0/36.pdb
+/Geekbrains/C#Homeworks/C-sharp/36/obj/Debug/net6.0/36.genruntimeconfig.cache
+/Geekbrains/C#Homeworks/C-sharp/36/obj/Debug/net6.0/ref/36.dll
