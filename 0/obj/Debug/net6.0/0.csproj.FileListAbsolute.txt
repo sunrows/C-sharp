@@ -1,0 +1,15 @@
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/0/bin/Debug/net6.0/0
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/0/bin/Debug/net6.0/0.deps.json
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/0/bin/Debug/net6.0/0.runtimeconfig.json
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/0/bin/Debug/net6.0/0.dll
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/0/bin/Debug/net6.0/0.pdb
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/0/obj/Debug/net6.0/0.csproj.AssemblyReference.cache
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/0/obj/Debug/net6.0/0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/0/obj/Debug/net6.0/0.AssemblyInfoInputs.cache
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/0/obj/Debug/net6.0/0.AssemblyInfo.cs
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/0/obj/Debug/net6.0/0.csproj.CoreCompileInputs.cache
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/0/obj/Debug/net6.0/0.dll
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/0/obj/Debug/net6.0/refint/0.dll
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/0/obj/Debug/net6.0/0.pdb
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/0/obj/Debug/net6.0/0.genruntimeconfig.cache
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/0/obj/Debug/net6.0/ref/0.dll
