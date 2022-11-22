@@ -1,0 +1,15 @@
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/lectures/bin/Debug/net6.0/lectures
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/lectures/bin/Debug/net6.0/lectures.deps.json
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/lectures/bin/Debug/net6.0/lectures.runtimeconfig.json
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/lectures/bin/Debug/net6.0/lectures.dll
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/lectures/bin/Debug/net6.0/lectures.pdb
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/lectures/obj/Debug/net6.0/lectures.csproj.AssemblyReference.cache
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/lectures/obj/Debug/net6.0/lectures.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/lectures/obj/Debug/net6.0/lectures.AssemblyInfoInputs.cache
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/lectures/obj/Debug/net6.0/lectures.AssemblyInfo.cs
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/lectures/obj/Debug/net6.0/lectures.csproj.CoreCompileInputs.cache
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/lectures/obj/Debug/net6.0/lectures.dll
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/lectures/obj/Debug/net6.0/refint/lectures.dll
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/lectures/obj/Debug/net6.0/lectures.pdb
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/lectures/obj/Debug/net6.0/lectures.genruntimeconfig.cache
+/Users/sunrows/Yandex.Disk.localized/geekbrains/C-sharp/lectures/obj/Debug/net6.0/ref/lectures.dll
