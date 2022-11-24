@@ -11,7 +11,7 @@ int[] Pounds()
     string[] arr = { "b1", "k1", "b2", "k2" };
     for (int i = 0; i < mas.Length; i++)
     {
-        
+
         Console.WriteLine($" Введите точку {arr[i]}:\t");
         mas[i] = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine(mas[i]);
@@ -30,9 +30,9 @@ void Method(int[] array)
     else if (k1 == k2) Console.WriteLine(" Прямые паралельны!");
     else
     {
-    x = (b2 - b1) / (k2 - k1);
-    y = k1 * x + b1;
-    Console.WriteLine($" Точка пересечения x = {x}; y = {y}");
+        x = (b2 - b1) / (k2 - k1);
+        y = k1 * x + b1;
+        Console.WriteLine($" Точка пересечения x = {x}; y = {y}");
     }
 }
 
