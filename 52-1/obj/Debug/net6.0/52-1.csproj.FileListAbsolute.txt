@@ -1,0 +1,15 @@
+D:\yandex_disk\YandexDisk\geekbrains\C-sharp\52-1\obj\Debug\net6.0\52-1.csproj.AssemblyReference.cache
+D:\yandex_disk\YandexDisk\geekbrains\C-sharp\52-1\obj\Debug\net6.0\52-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\yandex_disk\YandexDisk\geekbrains\C-sharp\52-1\obj\Debug\net6.0\52-1.AssemblyInfoInputs.cache
+D:\yandex_disk\YandexDisk\geekbrains\C-sharp\52-1\obj\Debug\net6.0\52-1.AssemblyInfo.cs
+D:\yandex_disk\YandexDisk\geekbrains\C-sharp\52-1\obj\Debug\net6.0\52-1.csproj.CoreCompileInputs.cache
+D:\yandex_disk\YandexDisk\geekbrains\C-sharp\52-1\bin\Debug\net6.0\52-1.exe
+D:\yandex_disk\YandexDisk\geekbrains\C-sharp\52-1\bin\Debug\net6.0\52-1.deps.json
+D:\yandex_disk\YandexDisk\geekbrains\C-sharp\52-1\bin\Debug\net6.0\52-1.runtimeconfig.json
+D:\yandex_disk\YandexDisk\geekbrains\C-sharp\52-1\bin\Debug\net6.0\52-1.dll
+D:\yandex_disk\YandexDisk\geekbrains\C-sharp\52-1\bin\Debug\net6.0\52-1.pdb
+D:\yandex_disk\YandexDisk\geekbrains\C-sharp\52-1\obj\Debug\net6.0\52-1.dll
+D:\yandex_disk\YandexDisk\geekbrains\C-sharp\52-1\obj\Debug\net6.0\refint\52-1.dll
+D:\yandex_disk\YandexDisk\geekbrains\C-sharp\52-1\obj\Debug\net6.0\52-1.pdb
+D:\yandex_disk\YandexDisk\geekbrains\C-sharp\52-1\obj\Debug\net6.0\52-1.genruntimeconfig.cache
+D:\yandex_disk\YandexDisk\geekbrains\C-sharp\52-1\obj\Debug\net6.0\ref\52-1.dll
